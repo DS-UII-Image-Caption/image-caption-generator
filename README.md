@@ -10,6 +10,7 @@ Image Caption Generator Bahasa Indonesia with CNN &amp; LSTM
 1. [Requirements](#1-requirements)
 2. [Project Files Structure](#2-project-files-structure)
 3. [How To Run](#3-how-to-run)
+4. [Result Testing](#4-result-testing)
 
 
 ## 1. Requirements
@@ -66,3 +67,13 @@ The below files will be created by us while making the project.
 4. You can download pre-trained model without run `training_caption_generator`
 5. Run `testing_caption_generator` with terminal <br>
 ```python testing_caption_generator.py -i "Dataset\test_img\IC3.jpg"```
+
+
+## 4. Result Testing
+
+1. Report project (PDF).
+2. Slide presentation project
+3. Video testing project
+4. Images of result testing
+
+The result can referer in [HERE](https://drive.google.com/drive/folders/1cfqdFWQ0azcrIShGUFaqzwB9oOW112SF?usp=sharing)
