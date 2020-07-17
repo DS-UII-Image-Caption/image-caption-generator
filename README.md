@@ -76,4 +76,4 @@ The below files will be created by us while making the project.
 3. Video testing project
 4. Images of result testing
 
-The result testing: [LINK](https://drive.google.com/drive/folders/1cfqdFWQ0azcrIShGUFaqzwB9oOW112SF?usp=sharing)
+Result testing link: [GO THERE](https://drive.google.com/drive/folders/1cfqdFWQ0azcrIShGUFaqzwB9oOW112SF?usp=sharing)
